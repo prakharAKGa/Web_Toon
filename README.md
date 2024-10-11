@@ -10,8 +10,10 @@ A beautifully crafted webtoon browsing app that allows users to explore, view, s
   - **Title**
   - **Thumbnail image** for visual appeal.
 
-![Home Screen](C:\Users\wwwpr\Desktop\Screenshot_1728657335.png)
-![](C:\Users\wwwpr\Desktop\Screenshot_1728657343.png)
+![Home Screen](![Screenshot_1728657335](https://github.com/user-attachments/assets/f078fff1-f956-4266-814f-654b85feb697)
+)
+![](![Screenshot_1728657343](https://github.com/user-attachments/assets/0668b621-7bb1-4f08-b6a8-448e30a928fc)
+)
 
 ### 2. Detail Screen
 - Upon selecting a webtoon category, users are navigated to a detailed view.
