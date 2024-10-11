@@ -14,8 +14,7 @@ Webtoon App is a beautifully crafted mobile application that allows users to exp
 <table>
   <tr>
     <td align="center">
-      <img src="![Screenshot_1728657335](https://github.com/user-attachments/assets/40591ed0-410e-46f2-979e-944fad00a9ac)
-" alt="Home Screen" height="400px">
+      <img src="C:\Users\wwwpr\Desktop\Screenshot_1728657335.png" alt="Home Screen" height="400px">
     </td>
     <td align="center">
       <img src="assets/images/detail_screen.png" alt="Detail Screen" height="400px">
