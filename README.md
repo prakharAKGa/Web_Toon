@@ -10,6 +10,9 @@ A beautifully crafted webtoon browsing app that allows users to explore, view, s
   - **Title**
   - **Thumbnail image** for visual appeal.
 
+![Home Screen]("C:\Users\wwwpr\Desktop\Screenshot_1728657335.png")
+![](""C:\Users\wwwpr\Desktop\Screenshot_1728657343.png"")
+
 ### 2. Detail Screen
 - Upon selecting a webtoon category, users are navigated to a detailed view.
 - Displays information using **“Lore Olympus Webtoon: Jaw Dropping Seen on Media”** as an example.
@@ -18,13 +21,19 @@ A beautifully crafted webtoon browsing app that allows users to explore, view, s
   - **Description**: A summary or overview of the selected webtoon.
   - **Add to Favorites Button**: Easily add webtoons to a favorites list for future viewing.
 
+![Detail Screen](assets/images/detail_screen.png)
+
 ### 3. Favorites Screen
 - A dedicated screen for users to view their saved webtoons.
 - Favorites are stored locally using **Flutter’s SharedPreferences** package or **Hive** for persistent storage, ensuring the favorites are maintained even after closing the app.
 
+![Favorites Screen](assets/images/favorites_screen.png)
+
 ### 4. Rating Feature
 - Users can rate their favorite webtoons on a scale of 1-5 stars.
 - The average rating is dynamically calculated and displayed on the detail screen.
+
+![Rating Feature](assets/images/rating_feature.png)
 
 ## Getting Started
 
