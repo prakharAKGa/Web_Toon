@@ -1,49 +1,36 @@
 # Webtoon App
 
-A beautifully crafted webtoon browsing app that allows users to explore, view, save their favorite webtoons, and rate them. Built using **Flutter**, this app provides a smooth and intuitive user experience, allowing fans to easily discover and save their favorite webtoons.
+## Description
+Webtoon App is a beautifully crafted mobile application that allows users to explore, view, save their favorite webtoons, and rate them. Built using **Flutter**, this app provides a smooth and intuitive user experience, allowing fans to easily discover and save their favorite webtoons.
 
 ## Features
+- Home screen displaying webtoon categories inspired by popular titles.
+- Detail screen with comprehensive information about each webtoon.
+- Favorites screen for users to view their saved webtoons.
+- Rating feature allowing users to rate their favorite webtoons (1-5 stars).
 
-### 1. Home Screen
-- Displays a list of webtoon categories inspired by **“Top 10 Popular Webtoons with Over 50 million Views.”**
-- Each category includes:
-  - **Title**
-  - **Thumbnail image** for visual appeal.
+## Screenshots
 
-![Screenshot_1728657335](https://github.com/user-attachments/assets/f078fff1-f956-4266-814f-654b85feb697)
-)
-![](![Screenshot_1728657343](https://github.com/user-attachments/assets/0668b621-7bb1-4f08-b6a8-448e30a928fc)
-)
+<table>
+  <tr>
+    <td align="center">
+      <img src="![Screenshot_1728657335](https://github.com/user-attachments/assets/40591ed0-410e-46f2-979e-944fad00a9ac)
+" alt="Home Screen" height="400px">
+    </td>
+    <td align="center">
+      <img src="assets/images/detail_screen.png" alt="Detail Screen" height="400px">
+    </td>
+    <td align="center">
+      <img src="assets/images/favorites_screen.png" alt="Favorites Screen" height="400px">
+    </td>
+    <td align="center">
+      <img src="assets/images/rating_feature.png" alt="Rating Feature" height="400px">
+    </td>
+  </tr>
+</table>
 
-### 2. Detail Screen
-- Upon selecting a webtoon category, users are navigated to a detailed view.
-- Displays information using **“Lore Olympus Webtoon: Jaw Dropping Seen on Media”** as an example.
-- Details include:
-  - **Image**: A visual representation of the webtoon.
-  - **Description**: A summary or overview of the selected webtoon.
-  - **Add to Favorites Button**: Easily add webtoons to a favorites list for future viewing.
-
-![Detail Screen](assets/images/detail_screen.png)
-
-### 3. Favorites Screen
-- A dedicated screen for users to view their saved webtoons.
-- Favorites are stored locally using **Flutter’s SharedPreferences** package or **Hive** for persistent storage, ensuring the favorites are maintained even after closing the app.
-
-![Favorites Screen](assets/images/favorites_screen.png)
-
-### 4. Rating Feature
-- Users can rate their favorite webtoons on a scale of 1-5 stars.
-- The average rating is dynamically calculated and displayed on the detail screen.
-
-![Rating Feature](assets/images/rating_feature.png)
-
-## Getting Started
-
-### Prerequisites
-- **Flutter SDK** should be installed on your machine. You can download it from [here](https://flutter.dev/docs/get-started/install).
-- A suitable IDE such as **Android Studio**, **VS Code**, or **IntelliJ IDEA**.
-
-### Installation
-1. Clone this repository:
+## Installation
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/webtoon-app.git
+   git clone https://github.com/your-username/webtoon-app.git
+   cd webtoon-app
